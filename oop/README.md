@@ -117,6 +117,8 @@ Then run the compiled executable:
 - **Copy and Move Semantics**: Understood the importance of proper copy and move constructors/assignment operators for managing resources.
 - **Exception Safety**: Improved knowledge of ensuring exception safety in resource management.
 
+Feel free to modify or extend the `String` class as needed!
+
 ---
 
 This README covers the overview, features, test output, compilation instructions, and what was learned from the exercise.
