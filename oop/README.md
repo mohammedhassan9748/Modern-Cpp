@@ -42,6 +42,8 @@ The `String` class provides a custom implementation of a string type in C++. It 
 
 The following is the output from the main program that tests the functionality of the `String` class:
 
+
+
 ```
 Testing Default Constructor:
 Default constructor: Size = 0, Content = "nullptr"
